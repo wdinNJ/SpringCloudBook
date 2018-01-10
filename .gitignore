@@ -1,0 +1,15 @@
+#eclipse files
+.classpath
+.project
+.gitignore
+
+# Java class files
+*.class
+
+# Generated files
+/.settings/
+/target/
+
+
+
+
