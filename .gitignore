@@ -7,8 +7,8 @@
 *.class
 
 # Generated files
-/.settings/
-/target/
+/.settings
+/target
 
 
 
